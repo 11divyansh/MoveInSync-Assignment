@@ -62,7 +62,7 @@ s-pring.jpa.hibernate.ddl-auto=update
 -spring.jpa.show-sql=true
 
 Run the Application
-mvn spring-boot:run
+./mvnw spring-boot:run
 
 API Documentation
 Swagger UI is available at:
